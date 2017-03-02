@@ -21,7 +21,7 @@ public class DialogueSystem : ModuleRules
                 "Slate",
                 "AIModule",
                 "GameplayTasks"
-			}
+            }
 		);
 	}
 }

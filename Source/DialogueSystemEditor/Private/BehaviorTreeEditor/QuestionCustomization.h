@@ -1,9 +1,8 @@
 //Copyright (c) 2016 Artem A. Mavrin and other contributors
 #pragma once
 
-#include "Editor/DetailCustomizations/Private/DetailCustomizationsPrivatePCH.h"
-
-#pragma once
+#include "IDetailCustomization.h"
+#include "PropertyHandle.h"
 
 class FQuestionDetails : public IDetailCustomization
 {

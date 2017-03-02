@@ -2,6 +2,7 @@
 #include "DialogueSystemEditorPrivatePCH.h"
 #include "ShowPhrasesCustomization.h"
 #include "Runtime/Engine/Classes/Matinee/MatineeActor.h"
+#include "IDetailChildrenBuilder.h"
 
 #define LOCTEXT_NAMESPACE "DialogueSystem"
 

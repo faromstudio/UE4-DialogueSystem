@@ -19,6 +19,7 @@
 #include "BTTask_WaitAnswer.h"
 #include "BTTask_CloseDialogue.h"
 #include "Runtime/CoreUObject/Public/Misc/UObjectToken.h"
+#include "Animation/AnimInstance.h"
 #include "UObjectToken.h"
 
 #define LOCTEXT_NAMESPACE "DialogueSystem" 

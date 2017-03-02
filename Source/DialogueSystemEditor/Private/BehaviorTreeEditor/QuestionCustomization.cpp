@@ -3,6 +3,10 @@
 
 #include "DialogueSystemEditorPrivatePCH.h"
 #include "QuestionCustomization.h"
+#include "DetailCategoryBuilder.h"
+#include "DetailLayoutBuilder.h"
+#include "IDetailPropertyRow.h"
+#include "DetailWidgetRow.h"
 
 #define LOCTEXT_NAMESPACE "DialogueSystem"
 
